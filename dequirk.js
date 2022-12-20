@@ -121,7 +121,7 @@ module.exports = {
   modVersion: 0.1,
 
   summary: "Removes quirks from trolls on a troll by troll basis (See options)",
-  description: `<p>Pretty simple mod, removes quirks on a troll by troll basis. Currently this does not work within flash games. Most trols (and humans) will still have incorrect casing and missing puncuation due to how they type.</p>
+  description: `<p>Pretty simple mod, removes quirks on a troll by troll basis. Currently this does not work within flash games. Most trolls (and humans) will still have incorrect casing and missing puncuation due to how they type.</p>
   <h3>Changing the below options will require a full reload [ctrl + r]</h3>`,
 
   settings: {
